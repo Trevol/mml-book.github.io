@@ -9,16 +9,16 @@ Twitter: [@mpd37](https://twitter.com/mpd37), [@AnalogAldo](https://twitter.com/
 
 We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
 
-The book will be [published by Cambridge University Press](https://www.cambridge.org/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning?format=PB) in early 2020.
+The book is available at [published by Cambridge University Press](https://www.cambridge.org/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning?format=PB) (published April 2020).
 
 We split the book into two parts:
 
 * Mathematical foundations
 * Example machine learning algorithms that use the mathematical foundations
 
-We aim to keep this book fairly short, so we don't cover everything.
+We aimed to keep this book fairly short, so we don't cover everything.
 
-**We will keep PDFs of this book freely available after publication.**
+**We will keep [PDFs of this book freely available](book/mml-book.pdf).**
 
 ##  Table of Contents
 
@@ -55,14 +55,26 @@ This version is the most up-to-date version of the book, i.e., we continue fixin
 ### [PDF of the printed book](book/mml-book_printed.pdf)
 This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
 
+## Solutions to exercises
+- [Instructor's manual containing solutions to the exercises](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning) (can be requested from Cambridge University Press)
+- [Additional exercises (with solutions)](https://www.overleaf.com/read/jvnwngmkpckc)
+
 
 ## Tutorials
-We are working on jupyter notebook tutorials for the machine learning parts:
 
-1. [Linear Regression](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.ipynb)
-2. [Gaussian Mixture Models](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.ipynb)
-3. [PCA](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.ipynb)
-4. SVM (work in progress)
+- Jupyter notebook tutorials (for learning)
+	1. [Linear Regression](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.ipynb)
+	2. [PCA](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.ipynb)
+	3. [Gaussian Mixture Models](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.ipynb)
+	4. SVM (work in progress)
+
+- Jupyter notebook tutorials (solutions)
+	1. [Linear Regression](tutorials/tutorial_linear_regression.solution.ipynb)
+	2. [PCA](tutorials/tutorial_pca.solution.ipynb)
+	3. [Gaussian Mixture Models](tutorials/tutorial_gmm.solution.ipynb)
+	4. SVM (work in progress)
+
+- [NeurIPS-2020 tutorial on integration and differentiation](https://mml-book.github.io/slopes-expectations.html)
 
 
 ## External resources
